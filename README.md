@@ -19,7 +19,7 @@ docker run --rm -i -v "$PWD":/data latex pdflatex ravi_yadav_resume.tex
 
 ### Preview
 
-![Resume Screenshot](/resume_preview.png)
+![Resume Screenshot](resume_preview.png)
 
 ### License
 
